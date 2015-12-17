@@ -1,0 +1,14 @@
+2^10 == 1024
+Integers store 2^32, 4 billion
+
+
+Binary System
+2^3 2^2 2^1 2^0
+8   4   2   1
+
+C++ arrays passed by reference
+JavaScript arrays passed by value / copy
+
+
+If you use str.split() on a string creates an array
+str.split([separator[, limit]]);
